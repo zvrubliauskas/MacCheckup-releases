@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.1</title>
+      <pubDate>Wed, 18 Nov 2026 22:10:35 -0600</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.3.1</h3><ul><li>Fixed: Packet Capture didn't stop when the countdown reached 0 and kept recording in the background (until 200,000 packets). It now stops on time, then shows "Finishing the recording…" while it saves and analyses.</li></ul><h3>Version 1.3.0</h3><ul><li>New What's Wrong? page: pick a symptom (Wi-Fi keeps dropping, video calls are choppy, a website won't load, internet is slow, my Mac is slow) and get one plain answer with the cause and next steps — a Quick Fix, the right page, or a report for your provider.</li><li>New Wi-Fi Walk Test: measure signal, Wi-Fi link speed and latency room by room, see weak spots on a chart, and get advice on where a mesh node would help.</li><li>New Speed vs Plan: enter your plan speed, log every speed test (optionally on a schedule), see how much of the plan you really get, the slowest time of day and outages, and create an Internet Service Report PDF for your provider.</li><li>New Bufferbloat test: grades A+ to F how much delay your connection adds when busy (downloading and uploading), with router settings to fix it.</li><li>New Website Check: is it down for everyone or just you? Compares your DNS with Cloudflare and Google, spots sites blocked by filters like Pi-hole (even through redirects), and times each step of loading the site.</li></ul><h3>Version 1.2.0</h3><ul><li>Automatic updates: Mac Checkup checks for new versions daily and installs them with one click (Install and Relaunch). Check any time with Check for Updates… in the Mac Checkup menu or the menu bar icon; options in Settings → Updates.</li><li>License keys: Mac Checkup is activated with a license key from the developer. Settings → License shows who it's licensed to; the name also appears in About and on PDF reports.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.3.1/MacCheckup-1.3.1.dmg" sparkle:edSignature="2ZE6l3Ga5zlXlgWoz5V2Ieqo9u2G6vILIjsXWp+e/3cSFvyazuMj8LyIAs8ru09AsG0h7qeNxD06EruTLZqUAA==" length="5565079" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Wed, 18 Nov 2026 21:48:05 -0600</pubDate>
       <sparkle:version>12</sparkle:version>
