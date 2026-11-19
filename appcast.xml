@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/zvrubliauskas/MacCheckup-releases/main/appcast.xml</link>
     <description>Mac Checkup updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 19:56:34 -0600</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.2.0</h3><ul><li>Automatic updates: Mac Checkup checks for new versions daily and installs them with one click (Install and Relaunch). Check any time with Check for Updates… in the Mac Checkup menu or the menu bar icon; options in Settings → Updates.</li><li>License keys: Mac Checkup is activated with a license key from the developer. Settings → License shows who it's licensed to; the name also appears in About and on PDF reports.</li></ul><h3>Version 1.1.0</h3><ul><li>Fixed: the menu bar icon could freeze on an old status (often a false "offline" or "slow") for up to half an hour. macOS App Nap was pausing the app while it sat in the menu bar; it now keeps checking on schedule (your Mac still sleeps normally), and checks interrupted by a pause are ignored instead of reported.</li><li>Travelling / not connected: no network (Wi-Fi off, out of range, on a plane) is logged as information, not as a drop; it doesn't send alerts or lower uptime. New menu bar badge (–) for it.</li><li>Hotel, airport and café Wi-Fi: detects when the network needs you to sign in on a web page, shows a key badge in the menu bar and sends one notification.</li><li>New Packet Capture tool: records traffic for 15 s to 2 min and explains the results in plain English (failed DNS lookups, unanswered or refused connections, signs of packet loss, top hosts, kinds of traffic). Save, delete or open the capture in Wireshark.</li><li>New installer window: the DMG opens to "Install Mac Checkup" with an arrow showing where to drag the app.</li></ul><h3>Version 1.0.0</h3><ul><li>First release for other Macs: signed with a Developer ID and notarized by Apple, so it opens with Gatekeeper set to "App Store and identified developers".</li><li>Includes everything below: Full Checkup, network tools, Connection Monitor, Wi-Fi scan, history, security checks, quick fixes and the shareable PDF report.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.2.0/MacCheckup-1.2.0.dmg" sparkle:edSignature="pgQFvPSowxtz5yeIcQpMKpIoOo8ZqNRpuNWT8PUlaYZ+Eni24/AW5/WDt4oat21TC6qXKGCmsz39C8Kg+PKcDg==" length="4920968" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
