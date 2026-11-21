@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Fri, 20 Nov 2026 20:17:39 -0600</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.8.0</h3><ul><li>License: new Check Now in Settings → License (and Check Again on the "key has been deactivated" screen) checks your key with the developer right away instead of waiting for the daily check, so a restored key works again immediately. Settings also shows when the license was last checked.</li></ul><h3>Version 1.7.0</h3><ul><li>License check: deactivated keys are now checked privately. Once a day Mac Checkup asks the developer's license service about this Mac's key only, sending a one-way code made from its ID, instead of downloading a public list. Nothing else is sent, and the service keeps no record of who asked.</li><li>A key that the developer restores starts working again by itself at the next daily check, without entering it again.</li></ul><h3>Version 1.6.0</h3><ul><li>New Home page: Mac Checkup opens with four tiles (Internet, Wi-Fi, This Mac, Security), one-click buttons for common problems, your latest connection drop and the most important things to look at.</li><li>Easier to find things: the sidebar groups the tools by job (Wi-Fi tools, Connection, Apps &amp; sites, Advanced) with a short plain-English line under each, and the groups open and close. Search (⌘K) finds pages, findings and Help topics, even from a symptom like "zoom choppy".</li><li>Answer first on every page: under the title, the most important finding (or "No problems found") and when the page was last checked. ⌘R or Check Again runs it again; the ? next to the title opens that page's Help.</li><li>Keyboard shortcuts: ⌘1 to ⌘9 jump to the main pages (new Go menu).</li><li>First-launch setup: three steps on Home (run a Full Checkup, turn on Connection Monitor, enter your plan speed). Hide them any time; Help → Show Setup Steps brings them back.</li><li>Menu bar: new Run Speed Test, What's Wrong? and Snapshot Now.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.8.0/MacCheckup-1.8.0.dmg" sparkle:edSignature="i9Ft7TCruNN0JI+lyIOOg7w8LRkt6hUMQFcyS2MU+Pm+PJ6C5kCFDKfDaGWvasKIplcD/c3EajSPJ9cJRuGgDw==" length="6741481" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Fri, 20 Nov 2026 20:12:08 -0600</pubDate>
       <sparkle:version>17</sparkle:version>
