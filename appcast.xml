@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.0</title>
+      <pubDate>Sun, 22 Nov 2026 13:31:32 -0600</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.10.0</h3><ul><li>Contact: the developer's website (ilan.solutions) is now linked on the activation screen, in About, Settings and Help, and from Help → Developer Website.</li></ul><h3>Version 1.9.0</h3><ul><li>Contact: the developer's email address (dev@ilan.solutions) is now on the activation screen, in License messages, About, Settings and Help, with Email the Developer… in the Help menu and the menu bar icon.</li></ul><h3>Version 1.8.1</h3><ul><li>License check: Mac Checkup no longer downloads the old public list of deactivated keys from GitHub. It only asks the developer's private license service about this Mac's own key.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.10.0/MacCheckup-1.10.0.dmg" sparkle:edSignature="0lFxfg5PX8uIRtCiSmIw6SsCmOCn4UdGlnjTgcCjpOvj05oREeHd7y0WjbzUwGiN0jeCVuh1cnU3NAXBTJeZBw==" length="6749891" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <pubDate>Sun, 22 Nov 2026 13:11:07 -0600</pubDate>
       <sparkle:version>20</sparkle:version>
