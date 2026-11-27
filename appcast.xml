@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.11.0</title>
+      <pubDate>Thu, 26 Nov 2026 21:42:23 -0600</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.11.0</h3><ul><li>Home: new Speed vs Plan tile (how much of your plan speed you really get) and Lag when busy tile (latest Bufferbloat grade), and a reminder from 30 days before a time-limited license ends.</li><li>Connection Monitor: the Connection restored notification now says where it broke, for example "Down for 2 min. Where it broke: Inside your provider's network."</li><li>Network and Path &amp; NAT: new Open Router Settings, with the right phone app named for eero, Google/Nest Wifi, Deco and Plume.</li><li>Path &amp; NAT: new IPv6 speed check compares IPv4 and IPv6 connection times; much slower IPv6 makes sites slow to start loading.</li><li>Shortcuts &amp; links: maccheckup:// links run a checkup or speed test, take a snapshot, open any page or start What's Wrong?, from the Shortcuts app, Siri or scripts.</li><li>Settings: Export Settings… and Import Settings… copy your setup (custom targets, work apps, plan speed, alerts) to another Mac. Your license and history stay put.</li><li>Check for Updates finds a new version straight after it's released (it no longer uses a cached update list).</li></ul><h3>Version 1.10.0</h3><ul><li>Contact: the developer's website (ilan.solutions) is now linked on the activation screen, in About, Settings and Help, and from Help → Developer Website.</li></ul><h3>Version 1.9.0</h3><ul><li>Contact: the developer's email address (dev@ilan.solutions) is now on the activation screen, in License messages, About, Settings and Help, with Email the Developer… in the Help menu and the menu bar icon.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.11.0/MacCheckup-1.11.0.dmg" sparkle:edSignature="/3EVDcEmsuuamz7CAIct4duBy8bUpy54oFBCaphzlSk/VipSIeCGBJdhhC5WiNaKntEGyJDFfrKEMWYckqDCAg==" length="6844027" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.0</title>
       <pubDate>Sun, 22 Nov 2026 13:31:32 -0600</pubDate>
       <sparkle:version>21</sparkle:version>
