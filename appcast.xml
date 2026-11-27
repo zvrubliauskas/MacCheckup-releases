@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.15.0</title>
+      <pubDate>Fri, 27 Nov 2026 09:55:44 -0600</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.15.0</h3><ul><li>New Crashes &amp; Restarts page: explains Mac crashes (kernel panics) and what was running, apps that quit unexpectedly, memory running out, apps that used too much, and restarts, from the reports macOS keeps.</li><li>New Cables &amp; Chargers page: Ethernet cable speed and errors (catches cables stuck at 100 Mbps), docks and USB devices, displays (catches 30 Hz), and whether your charger is strong enough.</li><li>First-run tour: four short tips for new users (Home, the colored dots, search, What's Wrong?), with Help → Take the Tour to see it again.</li><li>Fixed: Home's health score could show 100 after checking a single page; it now shows the last Full Checkup's score until a new one runs.</li></ul><h3>Version 1.14.0</h3><ul><li>Sidebar: a key at the bottom explains the colored dots (green no problems, blue information, orange needs attention, red a problem, no dot not checked yet), and hovering over a dot shows the page's main finding.</li></ul><h3>Version 1.13.0</h3><ul><li>Health score: one score out of 100 on Home (and for Internet, Wi-Fi, This Mac and Security) with a 30-day trend.</li><li>Watchdog: alerts you when a new startup item or trusted certificate appears, DNS or proxy settings change, the disk is filling fast, or battery health drops (Settings → Watchdog).</li><li>Security: more checks: admin accounts, sharing and remote access, device management and profiles, built-in malware protection updates, password after sleep.</li><li>Wi-Fi: Public Wi-Fi safety check for hotels, airports and cafés: Safe to use, Use your VPN, or Avoid.</li><li>Website Check: watch your work apps and get told when one is down for everyone. DNS &amp; VPN: VPN health for your company servers. Wi-Fi Scan: roaming (mesh ping-pong) check.</li><li>Network: guided fixes (restart router and modem, reconnect Wi-Fi, fix websites that won't load), each ending with a check that it worked.</li><li>For IT: an optional IT dashboard (turned on per organization with the device-management profile) and a command-line mode with JSON output for RMM tools and Jamf.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.15.0/MacCheckup-1.15.0.dmg" sparkle:edSignature="+i73gHCsqWwurCX5FlbfHLxfbDrLAQyqwsAKRdl9D7Fr9as6mN4j0odkWPZPRO/sKWBJA2N0xZwoRGge1vGxDw==" length="8009874" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.14.0</title>
       <pubDate>Fri, 27 Nov 2026 09:39:33 -0600</pubDate>
       <sparkle:version>25</sparkle:version>
