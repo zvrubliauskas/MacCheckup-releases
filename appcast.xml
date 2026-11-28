@@ -6,6 +6,15 @@
     <description>Mac Checkup updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.18.0</title>
+      <pubDate>Fri, 27 Nov 2026 21:37:15 -0600</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;margin:0 4px}h3{margin:12px 0 4px}li{margin:3px 0}</style><h3>Version 1.18.0</h3><ul><li>New Ask Your Mac page: ask about your results in plain English and get answers from Apple's on-device model. Nothing leaves your Mac. Needs macOS 26 with Apple Intelligence; hidden on Macs that can't run it.</li><li>New Lag Snapshot: when the Mac feels slow, record 30 seconds (Record Now, the menu bar, or ⌃⌥⌘L from any app) and see what caused it.</li><li>New Sleep &amp; Wake page: what's keeping your Mac awake, what woke it in the last 24 hours, and overnight wakes.</li><li>New What Changed? page: compares the Mac with the last time it was working (macOS, apps, startup items, profiles, system extensions, browser extensions, DNS, proxy).</li><li>New Browser Extensions page: extensions in Chrome, Edge, Brave, Vivaldi, Arc, Firefox and Safari with what they can do, plus search-engine hijacks, browser policies, proxies and known adware.</li><li>New Selling This Mac page: checks backup, Find My, iCloud and FileVault, then walks through Erase All Content and Settings.</li></ul><h3>Version 1.17.0</h3><ul><li>Full Checkup now includes Backups &amp; Updates: failed or unverified Time Machine backups, stuck iCloud sync and apps needing updates show up without opening the page (and in reports and History).</li><li>The This Mac health score on Home counts these findings too. Nothing is counted twice with Battery &amp; Backup.</li><li>Command line: new `backups` section (`--check backups`).</li></ul><h3>Version 1.16.0</h3><ul><li>New Backups &amp; Updates page: checks that Time Machine backups finish, were verified recently, are encrypted and have room, and that important folders aren't excluded.</li><li>iCloud sync check: whether iCloud's servers can be reached, whether sync is stuck using the processor, and whether low space or Low Power Mode is pausing it.</li><li>App updates: lists apps with a newer version from the App Store or their maker, with Open App and Open App Store Updates.</li></ul>]]></description>
+      <enclosure url="https://github.com/zvrubliauskas/MacCheckup-releases/releases/download/v1.18.0/MacCheckup-1.18.0.dmg" sparkle:edSignature="zUMBbfnhaJX5+CV5Sg6TUmGahGM/iUtrVvFySVqYt1mpub8gvW1n6IWUfRKzjrH2m6L+J8oUiyeONsEjF7SaDg==" length="8747161" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.17.0</title>
       <pubDate>Fri, 27 Nov 2026 15:58:37 -0600</pubDate>
       <sparkle:version>28</sparkle:version>
